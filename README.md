@@ -23,10 +23,6 @@ Here are some ideas to get you started:
 
 ---
 
-<a href="https://github.com/1vishen">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=1vishen&show_icons=true&theme=merko&rank_icon=github" />
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vishen&theme=merko&layout=compact" />
-</a>
-
-| <a href="https://github.com/1vishen"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=1vishen&show_icons=true&theme=merko&rank_icon=github" alt="1vishen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vishen&theme=merko&layout=compact" /></a> |
+| <a href="https://github.com/1vishen"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=1vishen&show_icons=true&theme=merko&rank_icon=github" alt="1vishen's github stats" /></a> | <a href="https://github.com/1vishen"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vishen&theme=merko&layout=compact" /></a> |
 | ------------- | ------------- |
+
