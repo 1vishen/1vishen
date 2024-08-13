@@ -23,7 +23,12 @@ Here are some ideas to get you started:
 
 ---
 
-### :green_book: &nbsp; Github Stats 
+# 💻 &nbsp; Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+# :green_book: &nbsp; Github Stats:
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=1vishen&show_icons=true&theme=merko&rank_icon=github" alt="1vishen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vishen&theme=merko&layout=compact" /></a> |
 | ------------- | ------------- |
@@ -36,8 +41,22 @@ Here are some ideas to get you started:
 
 ---
 
-### :snake: &nbsp; Snek 
+# :snake: &nbsp; Snek:
 
 ![snake gif](https://github.com/1vishen/1vishen/blob/output/github-contribution-grid-snake.svg)
 
 ---
+
+### ✍️ &nbsp; Random Dev Quote:
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" alt="Quote">
+</p>
+
+<!--### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=1vishen&limit=5&theme=merko&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=1vishen&icon=0&color=3)](https://visitcount.itsvg.in)
+-->
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
