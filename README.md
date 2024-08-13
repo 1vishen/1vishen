@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Sankalp!
-### 🌐 Web Developer | 💻 Programmer | 🧠 Learner
+### 🌐 Web Developer | 💻 Programmer |  🧠 Learner
 <!--
 **1vishen/1vishen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ---
 
-### :green_book: Github Stats 
+### :green_book: &nbsp; Github Stats 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=1vishen&show_icons=true&theme=merko&rank_icon=github" alt="1vishen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vishen&theme=merko&layout=compact" /></a> |
 | ------------- | ------------- |
@@ -32,6 +32,12 @@ Here are some ideas to get you started:
 
 [![Sankalp's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1vishen&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=1vishen&theme=gruvbox&no-frame=true&column=-1&margin-w=15&margin-h=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
+### :snake: &nbsp; Snek 
 
+![snake gif](https://github.com/1vishen/1vishen/blob/output/github-contribution-grid-snake.svg)
+
+---
