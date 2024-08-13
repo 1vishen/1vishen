@@ -22,11 +22,8 @@ Here are some ideas to get you started:
 ✉️ &nbsp; Feel free to reach out via [Email](mailto:1vishen@proton.me)  
 
 ---
-<p align="left">
-  <a href="https://github.com/1vishen">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=1vishen&show_icons=true&theme=merko&rank_icon=github" />
-</a>
+
 <a href="https://github.com/1vishen">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=1vishen&show_icons=true&theme=merko&rank_icon=github" />
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vishen&theme=merko&layout=compact" />
 </a>
-</p>
