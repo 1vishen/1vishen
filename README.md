@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 ---
 
 <a href="https://github.com/1vishen">
-  <img height=200 align="left" src="https://github-readme-stats.vercel.app/api?username=1vishen&show_icons=true&theme=merko&rank_icon=github" />
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vishen&theme=merko&layout=compact" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=1vishen&show_icons=true&theme=merko&rank_icon=github" />
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vishen&theme=merko&layout=compact" />
 </a>
