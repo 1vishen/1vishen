@@ -51,11 +51,12 @@ Here are some ideas to get you started:
 
 ---
 
-### ✍️ &nbsp; Random Dev Quote:
-
+### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
+<!--
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=merko" alt="Quote">
 </p>
+-->
 
 <!--### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=1vishen&limit=5&theme=merko&combine_all_yearly_contributions=true)
