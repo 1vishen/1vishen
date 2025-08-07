@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-💻 &nbsp; Software Engineer sharing about my journey and learnings in tech.  
-🎓 &nbsp; Studied ECE at the SRM IST, Chennai, with specialization in [Cyber Physical Systems](https://en.wikipedia.org/wiki/Cyber%E2%80%93physical_system).    
-🌱 &nbsp; Currently learning about **java**!  
-👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/1vishen?tab=repositories).
-✉️ &nbsp; Feel free to reach out via [Email](mailto:1vishen@proton.me)  
+💻 &nbsp; Software Engineer sharing about my journey and learnings in tech.    
+🌱 &nbsp; Currently learning about java!  
+💡 &nbsp; Curious about my latest work? Have a look on [GitHub](https://github.com/1vishen?tab=repositories) or reach out by [email](mailto:1vishen@proton.me)!
 
 ---
 
