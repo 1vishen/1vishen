@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 💻 &nbsp; Software Engineer sharing about my journey and learnings in tech.  
-🎓 &nbsp; Studied ECE at the SRM IST, Chennai, with specialization in [Cyber Physical Systems](https://en.wikipedia.org/wiki/Cyber%E2%80%93physical_system).  
-👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/1vishen?tab=repositories).  
-🌱 &nbsp; Currently learning about java!  
+🎓 &nbsp; Studied ECE at the SRM IST, Chennai, with specialization in [Cyber Physical Systems](https://en.wikipedia.org/wiki/Cyber%E2%80%93physical_system).    
+🌱 &nbsp; Currently learning about **java**!  
+👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/1vishen?tab=repositories).
 ✉️ &nbsp; Feel free to reach out via [Email](mailto:1vishen@proton.me)  
 
 ---
