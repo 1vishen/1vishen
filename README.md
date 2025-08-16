@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
 
 <p>
-  <img align="right" src="https://komarev.com/ghpvc/?username=1vishen&color=green">
+  <img align="right" src="https://komarev.com/ghpvc/?username=1vishen&color=green&style=for-the-badge">
 </p>
 
 <!-- ------------------------------------- -->
