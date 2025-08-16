@@ -52,10 +52,7 @@ Here are some ideas to get you started:
 
 
 
-
-<p>
-  <img align="right" src="https://komarev.com/ghpvc/?username=1vishen&color=green">
-</p>
+<!-- ------------------------------------- -->
 
 <!--
 <p align="center">
