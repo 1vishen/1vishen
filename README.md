@@ -1,5 +1,3 @@
-## 👋 Hi there, I'm Sankalp!
-### 🌐 Developer | 💻 Tech Enthusiast |  🧠 Learner
 <!--
 **1vishen/1vishen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 👋 Hi there, I'm Sankalp!
+### 🌐 Developer | 💻 Tech Enthusiast |  🧠 Learner
+
 💻 &nbsp; Software Engineer sharing about my journey and learnings in tech.    
 🌱 &nbsp; Currently learning about java!  
 💡 &nbsp; Curious about my latest work? Have a look on [GitHub](https://github.com/1vishen?tab=repositories) or reach out by [email](mailto:1vishen@proton.me)!
@@ -34,17 +36,15 @@ Here are some ideas to get you started:
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=1vishen&show_icons=true&theme=merko&rank_icon=github" alt="1vishen's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1vishen&theme=merko&layout=compact" /></a> |
 | ------------- | ------------- |
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=1vishen&theme=merko&card_width=900" alt="My GitHub Streak" /></a>
+[![My gitHub streak](https://streak-stats.demolab.com?user=1vishen&theme=merko&card_width=900)](https://git.io/streak-stats)
 
-[![Sankalp's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1vishen&theme=merko&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![My Trophies](https://github-profile-trophy.vercel.app/?username=1vishen&theme=gruvbox&no-frame=true&column=-1&margin-w=15&margin-h=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![My's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1vishen&theme=merko&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 # :snake: &nbsp; Snek:
 
-![snake gif](https://github.com/1vishen/1vishen/blob/output/github-contribution-grid-snake.svg)
+![my-contributions-snake](https://github.com/1vishen/1vishen/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -55,6 +55,8 @@ Here are some ideas to get you started:
 </p>
 
 <!-- ------------------------------------- -->
+
+<!-- [![My Trophies](https://github-profile-trophy.vercel.app/?username=1vishen&theme=gruvbox&no-frame=true&column=-1&margin-w=15&margin-h=1)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!--
 <p align="center">
@@ -67,5 +69,3 @@ Here are some ideas to get you started:
 
 [![](https://visitcount.itsvg.in/api?id=1vishen&icon=0&color=3)](https://visitcount.itsvg.in)
 -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
