@@ -37,13 +37,13 @@ Here are some ideas to get you started:
 | ------------- | ------------- |
 
 [![My gitHub streak](https://streak-stats.demolab.com?user=1vishen&theme=merko&card_width=900)](https://git.io/streak-stats)
-
+<!--
 [![My's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=1vishen&theme=merko&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+-->
 ---
-
+<!--
 # :snake: &nbsp; Snek:
-
+-->
 ![my-contributions-snake](https://github.com/1vishen/1vishen/blob/output/github-contribution-grid-snake.svg)
 
 ---
