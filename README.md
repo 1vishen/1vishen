@@ -46,13 +46,9 @@ Here are some ideas to get you started:
 
 <!--
 # :snake: &nbsp; Snek:
--->
 
 ![my-contributions-snake](https://github.com/1vishen/1vishen/blob/output/github-contribution-grid-snake.svg)
-
-![my-contributions-snake](https://github.com/1vishen/1vishen/blob/output/github-contribution-grid-snake-dark.svg)
-
----
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/1vishen/1vishen/blob/output/github-contribution-grid-snake-dark.svg" />
