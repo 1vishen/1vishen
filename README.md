@@ -50,6 +50,12 @@ Here are some ideas to get you started:
 
 ![my-contributions-snake](https://github.com/1vishen/1vishen/blob/output/github-contribution-grid-snake.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="my-contributions-snake" src="github-snake.svg" />
+</picture>
+
 ---
 
 ### <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="50"/>
